@@ -14,6 +14,7 @@ public class Application {
 	
 	@PostConstruct
 	public void init() {
+		
 		logger.info("Application started..");
 	}
 
